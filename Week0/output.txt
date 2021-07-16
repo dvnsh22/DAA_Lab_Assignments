@@ -1,0 +1,12 @@
+
+Element NOT found in array !
+No. of comparisons: 5
+
+Element found in array !
+No. of comparisons: 10
+
+Element found in array !
+No. of comparisons: 1
+
+Element found in array !
+No. of comparisons: 4
