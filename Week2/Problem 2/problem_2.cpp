@@ -27,8 +27,8 @@ int binarySearch(int arr[], int low, int high, int key) {
 // Function to print sequence of elements such that arr[i] + arr[j] = arr[k]
 void printSequence(int arr[], int size) {
 
-	for (int i = 0; i < size - 3; ++i) {
-		for (int j = i + 1; j < size - 2; ++j) {
+	for (int i = 0; i < size - 2; ++i) {
+		for (int j = i + 1; j < size - 1; ++j) {
 			int index = binarySearch(arr, j + 1, size - 1, arr[i] + arr[j]);
 			if (index != -1) {
 				cout << (i + 1) << ", " << (j + 1) << ", " << (index + 1) << endl;
