@@ -1,0 +1,6 @@
+Weight of shortest path from (0, 3) with 2 edges: 9
+
+Weight of shortest path from (0, 3) with 3 edges: 6
+
+No path of length 3 is available
+
