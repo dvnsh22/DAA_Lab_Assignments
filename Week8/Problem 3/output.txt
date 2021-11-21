@@ -1,0 +1,6 @@
+Maximum Spanning Weight: 59
+
+Maximum Spanning Weight: 31
+
+Maximum Spanning Weight: 71
+
